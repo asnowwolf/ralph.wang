@@ -78,14 +78,11 @@ Express 的，而 HTTP 客户端则是对 axios 库的封装，不过其对外�
 Controller 的范例代码：
 
 ```typescript
-@Put(':id')
-update(@Param('id')
-id: string, @Body()
-updateCatDto: UpdateCatDto
-):
-string
-{
-  return `This action updates a #${id} cat`;
+class FooController {
+    @Put(':id')
+    update(@Param('id') id: string, @Body() updateCatDto: UpdateCatDto): string {
+        return `This action updates a #${id} cat`;
+    }
 }
 ```
 
