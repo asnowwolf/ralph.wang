@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfreelancer_ui=self.webpackChunkfreelancer_ui||[]).push([[484],{8484:(v,h,c)=>{c.d(h,{eL:()=>_});var d=c(5879);let _=(()=>{var a;class t{}return(a=t).\u0275fac=function(e){return new(e||a)},a.\u0275mod=d.oAB({type:a}),a.\u0275inj=d.cJS({}),t})()}}]);
