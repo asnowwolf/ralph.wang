@@ -1,26 +1,32 @@
 # 什么是框架？为什么说 Angular 是框架？
 
+## 什么是框架？
+
 先摘录并翻译一段 wiki：
 
 > In [computer programming](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Computer_programming), a *
 *software framework** is
 > an [abstraction](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Abstraction_%28computer_science%29) in
 > which [software](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software) providing generic
-> functionality can be selectively changed by additional user-written code, thus providing application-specific software.
+> functionality can be selectively changed by additional user-written code, thus providing application-specific
+> software.
 > A software framework provides a standard way to build and deploy applications. A software framework is a universal,
-> reusable [software environment](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software_environment_%28disambiguation%29)
+>
+reusable [software environment](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software_environment_%28disambiguation%29)
 > that provides particular functionality as part of a
 > larger [software platform](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software_platform) to
 > facilitate development
 > of [software applications](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software_application),
 > products and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets,
-> and [application programming interfaces (APIs)](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Application_programming_interface)
+>
+and [application programming interfaces (APIs)](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Application_programming_interface)
 > that bring together all the
 > different [components](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software_component) to enable
 > development of a [project](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software_project)
 > or [system](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Software_system).
 >
-> 在编程领域，软件框架是指一种抽象形式，它提供了一个具有通用功能的软件，这些功能可以由使用者编写代码来有选择的进行更改，从而提供服务于特定应用的软件。软件框架提供了一种标准的方式来构建并部署应用。  
+>
+在编程领域，软件框架是指一种抽象形式，它提供了一个具有通用功能的软件，这些功能可以由使用者编写代码来有选择的进行更改，从而提供服务于特定应用的软件。软件框架提供了一种标准的方式来构建并部署应用。
 > 软件框架是一种通用的、可复用的软件环境，它提供特定的功能，作为一个更大的软件平台的一部分，用以促进软件应用、产品和解决方案的开发工作。软件框架可能会包含支撑程序、编译器、代码、库、工具集以及
 > API，它把所有这些部件汇集在一起，以支持项目或系统的开发。
 >
@@ -57,6 +63,8 @@
 
 总体来说，建立生产线的目标就是制定规矩，保障品质，让高品质可以用较低的代价进行复制。框架也是如此。
 
+## 框架的设计原理
+
 从代码结构上看，框架在宏观层面使用的都是注册、回调机制。这种机制有一个形象的名称，叫做好莱坞法则，为什么叫好莱坞法则呢？因为好莱坞想要成名的演员太多了，都想去找导演，这样下去导演的工作效率势必会受到严重的影响。于是导演就立下了“规矩”，不要打给我们(
 Don't call us)，等我们打给你（We'll call you!）。由于这个 call 和程序调用的 call 是同一个词，于是编程界就把这句话搬过来，变成了回调（callback）的形象代言人。
 
@@ -72,6 +80,8 @@ DOM 进行操纵。
 Angular 组件？”）。
 
 而库则跟框架相反，宏观上说，它是等着你调用的，你要什么功能它就给你什么函数，然后你调用这个函数，把所需的参数传进去就行了，而不是让你遵守它的那么多规矩。所以你很自由，但是你也要自己为整件事负责。你要自己创建组件、创建服务等，自己来驱动整个流程，自己做必要的检查，当然也可以不做，反正对十块钱的鞋子别人可能只希望能穿一个月就行了。
+
+## 为什么说 Angular 是框架？
 
 那么，问题来了，框架一定会比库高级吗？显然不是，甚至连框架的功能都不一定比库多。它们只是定位不同、设计理念不同而已。对于
 Angular
