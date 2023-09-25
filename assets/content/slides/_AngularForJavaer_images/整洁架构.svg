@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2489" height="1742">
+  <g font-size="64">
+    <path fill="#D0CECE" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10"
+          stroke-width="3.438"
+          d="M6.5 892C6.5 425.596 384.596 47.5 851 47.5c466.4 0 844.5 378.096 844.5 844.5 0 466.4-378.1 844.5-844.5 844.5-466.404 0-844.5-378.1-844.5-844.5Z"/>
+    <path fill="#AFABAB" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10"
+          stroke-width="3.438"
+          d="M201.5 892c0-358.709 290.79-649.5 649.5-649.5s649.5 290.791 649.5 649.5c0 358.71-290.79 649.5-649.5 649.5S201.5 1250.71 201.5 892Z"/>
+    <path fill="#767171" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10"
+          stroke-width="3.438"
+          d="M396.5 892c0-251.01 203.49-454.5 454.5-454.5s454.5 203.49 454.5 454.5-203.49 454.5-454.5 454.5S396.5 1143.01 396.5 892Z"/>
+    <path fill="#E7E6E6" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10"
+          stroke-width="3.438"
+          d="M591.5 892c0-143.32 116.18-259.5 259.5-259.5s259.5 116.18 259.5 259.5-116.18 259.5-259.5 259.5S591.5 1035.32 591.5 892Z"/>
+    <text text-anchor="middle" x="850" y="916" font-weight="400">业务实体</text>
+    <text text-anchor="middle" x="850" y="554" font-weight="400">业务用例</text>
+    <text text-anchor="middle" x="850" y="360" font-weight="400">控制器</text>
+    <text font-weight="400" transform="rotate(-74.898 1437.503 -301.377)">展示器</text>
+    <text font-weight="400" transform="rotate(70.806 -555.967 707.562)">网关</text>
+    <text text-anchor="middle" x="850" y="1658" font-weight="400">外部接口</text>
+    <text font-weight="400" transform="rotate(-72.982 1622.058 -419.937)">用户界面</text>
+    <text font-family="Arial,Arial_MSFontService,sans-serif" font-weight="400"
+          transform="rotate(32.304 135.442 2237.98)">Web
+    </text>
+    <text font-weight="400" transform="rotate(-34.969 735.957 -425.402)">设备</text>
+    <text font-weight="400" transform="rotate(72.627 -655.849 567.52)">数据库</text>
+    <path fill="#FFF" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1759.5 47.5h65v65h-65z"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1759.45 79.395 928.79 785.84"/>
+  </g>
+  <g font-size="83">
+    <text x="1861.1" y="109" font-weight="400">系统级业务逻辑</text>
+    <path fill="#767171" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1759.5 223.5h65v65h-65z"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1759.45 255.395 1174.21 747.65"/>
+    <text x="1861.1" y="286" font-weight="400">应用级业务逻辑</text>
+    <path fill="#AFABAB" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1761.5 397.5h65v65h-65z"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1761.45 429.395 1381.47 761.01"/>
+    <text x="1861.1" y="462" font-weight="400">接口适配器</text>
+    <path fill="#D0CECE" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1766.5 571.5h65v65h-65z"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="8" stroke-width="4.583" d="M1766.45 603.395 1573.88 760.99"/>
+    <text x="1861.1" y="639" font-weight="400">框架与驱动程序</text>
+  </g>
+</svg>

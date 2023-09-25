@@ -1,0 +1,176 @@
+<svg width="994" height="485" viewBox="348 262 994 485" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    rect {
+      stroke: black;
+      font-size: 16px;
+      fill: rgb(241, 190, 66);
+      fill-opacity: 0.5;
+    }
+  </style>
+  <g>
+    <g transform="translate(564.00, 364.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">AbstractControl</text>
+    </g>
+    <g transform="translate(349.00, 263.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">FormControl</text>
+    </g>
+    <g transform="translate(349.00, 335.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">FormGroup</text>
+    </g>
+    <g transform="translate(349.00, 399.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">FormArray</text>
+    </g>
+    <g transform="translate(351.00, 463.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">FormRecord</text>
+    </g>
+    <g transform="translate(482.00, 529.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">ValidatorFn</text>
+    </g>
+    <g transform="translate(620.00, 529.00)">
+      <rect width="138.00" height="48.00"/>
+      <text x="69" y="28" fill="black" text-anchor="middle">AsyncValidatorFn</text>
+    </g>
+    <g transform="translate(758.00, 364.00)">
+      <rect width="188.00" height="48.00"/>
+      <text x="94" y="28" fill="black" text-anchor="middle">AbstractControlDirective</text>
+    </g>
+    <g transform="translate(998.00, 364.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">NgControl</text>
+    </g>
+    <g transform="translate(973.00, 492.00)">
+      <rect width="178.00" height="48.00"/>
+      <text x="89" y="28" fill="black" text-anchor="middle">ControlValueAccessor</text>
+    </g>
+    <g transform="translate(1175.00, 289.00)">
+      <rect width="128.00" height="48.00"/>
+      <text x="64" y="28" fill="black" text-anchor="middle">NgModel</text>
+    </g>
+    <g transform="translate(1173.00, 367.00)">
+      <rect width="147.00" height="48.00"/>
+      <text x="73.5" y="28" fill="black" text-anchor="middle">FormControlName</text>
+    </g>
+    <g transform="translate(1173.00, 447.00)">
+      <rect width="168.00" height="48.00"/>
+      <text x="84" y="28" fill="black" text-anchor="middle">FormControlDirective</text>
+    </g>
+    <g transform="translate(856.00, 602.00)">
+      <rect width="179.00" height="48.00"/>
+      <text x="89.5" y="28" fill="black" text-anchor="middle">DefaultValueAccessor</text>
+    </g>
+    <g transform="translate(1054.00, 602.00)">
+      <rect width="179.00" height="48.00"/>
+      <text x="89.5" y="28" fill="black" text-anchor="middle">SelectValueAccessor</text>
+    </g>
+    <g transform="translate(866.00, 698.00)">
+      <rect width="159.00" height="48.00"/>
+      <text x="79.5" y="28" fill="black" text-anchor="middle">HTMLInputElement</text>
+    </g>
+    <g transform="translate(1064.00, 698.00)">
+      <rect width="159.00" height="48.00"/>
+      <text x="79.5" y="28" fill="black" text-anchor="middle">HTMLSelectElement</text>
+    </g>
+    <g transform="translate(464.09, 311.00)">
+      <path d="M 0 0 L 94.61 44.45" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 111.81 52.52 L 90.57 53.04 L 98.65 35.85 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(477.00, 367.63)">
+      <path d="M 0 0 L 67.06 9.05" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 85.89 11.59 L 65.79 18.46 L 68.33 -0.37 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(477.00, 398.42)">
+      <path d="M 0 14.16 L 67.14 3.23" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 85.9 0.18 L 68.67 12.61 L 65.62 -6.14 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(466.64, 412.00)">
+      <path d="M 0 51 L 91.48 8.48" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 108.71 0.47 L 95.49 17.09 L 87.48 -0.14 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(946.00, 388.00)">
+      <path d="M 52 0 L 20.12 0" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 1.12 0 L 20.12 -9.5 L 20.12 9.5 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(1118.64, 337.00)">
+      <path d="M 63.72 0 L 18.52 19.15" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 1.03 26.56 L 14.82 10.4 L 22.23 27.9 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(1126.00, 389.04)">
+      <path d="M 47 0.76 L 20.12 0.33" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 1.12 0.02 L 20.27 -9.17 L 19.96 9.83 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(1118.39, 412.00)">
+      <path d="M 82.23 35 L 18.51 7.88" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 1.03 0.44 L 22.23 -0.86 L 14.79 16.62 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(963.10, 540.00)">
+      <path d="M 0 62 L 56.12 13.2" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 70.46 0.73 L 62.35 20.37 L 49.89 6.03 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(1079.78, 540.00)">
+      <path d="M 45.94 62 L 11.98 16.16" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 0.67 0.9 L 19.61 10.51 L 4.34 21.82 Z" fill="rgb(246, 246, 249)" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(557.93, 412.00)">
+      <path d="M 58.15 0 L 1 115" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 0.45 94.76 L 0.5 116 L 17.46 103.21" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+    </g>
+    <g transform="translate(637.60, 412.00)">
+      <path d="M 0 0 L 45.97 114.92" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 30.51 101.85 L 46.38 115.96 L 48.15 94.79" fill="none" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <g transform="translate(692.00, 388.00)">
+      <path d="M 66 0 L 2.24 0" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M 20.12 -9.5 L 1.12 0 L 20.12 9.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+    </g>
+    <g transform="translate(1062.00, 412.00)">
+      <path d="M 0 0 L 0 77.76" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M -9.5 59.88 L 0 78.88 L 9.5 59.88" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+    </g>
+    <g transform="translate(945.50, 650.00)">
+      <path d="M 0 0 L 0 45.76" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M -9.5 27.88 L 0 46.88 L 9.5 27.88" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+    </g>
+    <g transform="translate(1143.50, 650.00)">
+      <path d="M 0 0 L 0 45.76" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+      <path d="M -9.5 27.88 L 0 46.88 L 9.5 27.88" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="none"/>
+    </g>
+  </g>
+</svg>

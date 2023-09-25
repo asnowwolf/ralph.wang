@@ -1,68 +1,17 @@
 ---
 marp: true
-theme: gaia
-_class: lead
-backgroundColor: #fafafa
+theme: ralph
 ---
 
-<!-- paginate: true -->
-
-<style>
-
-code.language-bash {
-  color: #17ff0b;
-}
-
-section h1 {
-  white-space: nowrap;
-}
-section :is(pre, marp-pre) {
-  background: black;
-  border-radius: 4px;
-}
-
-section code {
-  background: hsl(0deg, 0%, 25%);
-  border-radius: 4px;
-}
-
-section .hljs-comment {
-  font-style: normal;
-}
-
-section .hljs-title.class_ {
-  text-decoration: none;
-}
-
-section strong {
-  color: hsl(122deg, 29%, 42%);
-  font-weight: normal;
-}
-
-section ul > li > ul strong {
-  color: hsl(219deg,80%,62%);
-}
-
-section em {
-  color: hsl(122deg, 29%, 42%);
-  font-style: normal;
-}
-
-section a {
-  color: hsl(219deg,80%,62%);
-  text-decoration: none;
-}
-
-section .hljs-comment {
-  color: hsl(120deg, 50%, 90%);
-}
-</style>
+<!-- _class: lead -->
 
 # AI 与大模型
 
 ## 大模型知识科普
 
 ---
+
+<!-- paginate: true -->
 
 # 什么是 AI？什么是大模型？
 
