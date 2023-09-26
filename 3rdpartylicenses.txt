@@ -66,6 +66,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 github-slugger
 ISC
 Copyright (c) 2015, Dan Flettre <fletd01@yahoo.com>
