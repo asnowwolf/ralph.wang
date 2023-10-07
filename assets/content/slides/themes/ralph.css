@@ -408,3 +408,9 @@ section a {
 section .hljs-comment {
     color: hsl(120deg, 50%, 90%);
 }
+
+section:where(.image-only) img {
+    display: block;
+    margin: auto;
+    height: calc(100% - 2em);
+}

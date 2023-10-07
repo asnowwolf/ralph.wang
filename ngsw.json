@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1696489614823,
+  "timestamp": 1696685627128,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -117,7 +117,7 @@
     "/963.8b82fa714e58e0b6.js": "b4b513c23c57c66c91d197279f6c52cf7a839f09",
     "/about/index.html": "9c17e89dedcb5bd9649384d12066b8b006699261",
     "/articles/index.html": "ce7cf8dcfbc7611b8605a0d44e54f4a4f81e033f",
-    "/assets/content/about/wechat.jpg": "50fe7f39aa7491ec468b22496d646f81cc647754",
+    "/assets/content/about/wechat.jpg": "26f44ee3b880f47e13051f63e633e9379d173d1c",
     "/assets/content/articles/.一文说透“依赖注入”_images/整洁架构.png": "0eb816ce6436a95dc2a2efb3624c5c21d0fd6a1e",
     "/assets/content/articles/.架构杂谈_images/737max8.png": "c8335b609be0b5a99753414a5a1aa54732b2bfd7",
     "/assets/content/articles/Angular，工程之美.md": "b0eda268843a65593ef61e801924ed8b7d1bb69d",
@@ -155,9 +155,9 @@
     "/assets/content/books/AngularJS深度剖析与最佳实践.png": "528693e6c62d10e66e8229f2ea9967bf3fff584f",
     "/assets/content/books/Angular权威教程.png": "8836071c7235241c2dd4041a364dcb4d3ee2bf22",
     "/assets/content/books/Rust程序设计第二版.png": "198392e14c30c1c2712082efea85ce99a3d82e05",
-    "/assets/content/slides/introduction-to-aigc.html": "153f9d541e2a931245a94c5d68b55ca4ba484a43",
-    "/assets/content/slides/introduction-to-aigc.md": "685162e50466bdda0100f0d73dc4f95ac4c3757a",
-    "/assets/content/slides/themes/ralph.css": "a4997ae098c09d3b1fc0d5f28f5226cef2c34a2b",
+    "/assets/content/slides/introduction-to-aigc.html": "06796535b537b9c70895610697e234fabc133813",
+    "/assets/content/slides/introduction-to-aigc.md": "d1dd8b1bf72b35c2aea77a681889dd062233b8c3",
+    "/assets/content/slides/themes/ralph.css": "50355af9ebeae176ce79ee32e2c650b66c17177f",
     "/assets/icons/icon-128x128.png": "d73449e28f7039b646814070cbfe2a9aeb662cd1",
     "/assets/icons/icon-144x144.png": "4a2fd507372ab2ca989790279f03816118a63bd2",
     "/assets/icons/icon-152x152.png": "9d8615b4f705c77ad89dd2a8c85fc8645cb81049",
