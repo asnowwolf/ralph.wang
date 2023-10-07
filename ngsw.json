@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1696685627128,
+  "timestamp": 1696685816375,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -155,8 +155,8 @@
     "/assets/content/books/AngularJS深度剖析与最佳实践.png": "528693e6c62d10e66e8229f2ea9967bf3fff584f",
     "/assets/content/books/Angular权威教程.png": "8836071c7235241c2dd4041a364dcb4d3ee2bf22",
     "/assets/content/books/Rust程序设计第二版.png": "198392e14c30c1c2712082efea85ce99a3d82e05",
-    "/assets/content/slides/introduction-to-aigc.html": "06796535b537b9c70895610697e234fabc133813",
-    "/assets/content/slides/introduction-to-aigc.md": "d1dd8b1bf72b35c2aea77a681889dd062233b8c3",
+    "/assets/content/slides/introduction-to-aigc.html": "a31f85d3f1b45023545fd71bba973baeed645fc0",
+    "/assets/content/slides/introduction-to-aigc.md": "cb4a48df75f428f01e4fa7dbdb5ca7da594c27e4",
     "/assets/content/slides/themes/ralph.css": "50355af9ebeae176ce79ee32e2c650b66c17177f",
     "/assets/icons/icon-128x128.png": "d73449e28f7039b646814070cbfe2a9aeb662cd1",
     "/assets/icons/icon-144x144.png": "4a2fd507372ab2ca989790279f03816118a63bd2",

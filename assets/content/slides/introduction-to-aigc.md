@@ -47,7 +47,7 @@ note left of 专家系统
 精确、专用、成本高
 end note
 
-note right of 大模型
+note right of 机器学习
 不精确、通用、成本低
 end note
 
