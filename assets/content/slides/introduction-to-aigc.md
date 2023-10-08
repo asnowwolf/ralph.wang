@@ -34,8 +34,6 @@ theme: ralph
 
 @startuml
 
-skinparam backgroundColor none
-
 hide empty members
 
 AI <|-- 专家系统
