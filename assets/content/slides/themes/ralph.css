@@ -409,8 +409,8 @@ section .hljs-comment {
     color: hsl(120deg, 50%, 90%);
 }
 
-section:where(.image-only) img {
+section:where(.image-only) img, section:where(.image-only) svg {
     display: block;
     margin: auto;
-    height: calc(100% - 2em);
+    height: calc(100% - 1em);
 }
