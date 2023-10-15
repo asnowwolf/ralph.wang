@@ -8,6 +8,9 @@ theme: ralph
 # AI 与大模型
 
 ## 大模型知识科普
+---
+
+@include(about.md)
 
 ---
 
@@ -203,8 +206,4 @@ end note
 
 ---
 
-<!-- _class: lead -->
-
-# 自由提问
-
-## 任何人，任何问题
+@include(contact.md)
