@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697634602660,
+  "timestamp": 1697634996514,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -99,6 +99,7 @@
         "/assets/icons/icon-96x96.png",
         "/assets/images/me.jpg",
         "/books/index.html",
+        "/photo.png",
         "/services/index.html",
         "/showcases/index.html",
         "/sites/index.html",
@@ -183,6 +184,7 @@
     "/index.html": "3adbca7a15e6840b6ac285408c763d8f3ab5cf82",
     "/main.6782b29fdba4ad33.js": "9a005951f1386629384a88e22962a85823846882",
     "/manifest.webmanifest": "422860b41f18888e91551cd74b2f0ecbe2f45dd4",
+    "/photo.png": "c9bce7d98c9bf1c38062952500d1b878b95a87ff",
     "/polyfills.4dc8e9d3435b1137.js": "658c60d2318732073be5fb9db1141d831f4082a0",
     "/runtime.c3d2e5061c420be8.js": "ebe38ebfc33ce4acd1b3752d8e857f2fc00a8b01",
     "/services/index.html": "c4925bbf72a4d39e651a20cae615197f9ddddacd",
