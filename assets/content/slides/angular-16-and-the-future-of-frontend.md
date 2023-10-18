@@ -1,15 +1,13 @@
 ---
 marp: true
-theme: ralph
+theme: devfest
 ---
 
 <!-- _class: lead -->
 
-# Angular 新闻联播与 AIGC 时代的前端
+# _新闻_ - Angular 现状与前瞻
 
-## _新闻联播_：Angular 现状与前瞻
-
-## _焦点访谈_：AIGC 与前端　　　　
+# _思考_ - AIGC 与前端　　　　
 
 ---
 
@@ -17,7 +15,7 @@ theme: ralph
 
 ---
 
-# 新闻联播：Angular 现状
+# _新闻_ - Angular 现状
 
 - 响应式：Signal
 - 组件：Standalone
@@ -29,11 +27,15 @@ theme: ralph
 
 ---
 
-# 响应式：Signal
+# 响应式与 Signal
 
-# 新闻联播：Angular 前瞻
+---
 
-- 
+# _新闻_ - Angular 前瞻
+
+---
+
+# _思考_ - AIGC 与前端
 
 ---
 

@@ -1,14 +1,32 @@
 @charset "UTF-8";
 /*!
- * Marp / Marpit Ralph theme(based on gaia).
+ * Marp / Marpit DevFest theme(based on ralph).
  *
- * @theme ralph
+ * @theme devfest
  * @author Ralph Wang
  *
  * @auto-scaling true
  * @size 16:9 1280px 720px
  * @size 4:3 960px 720px
  */
+
+section {
+    --color-background: #fafafa;
+    --color-background-stripe: #e8eaed;
+    --color-foreground: #202124;
+    --color-dimmed: #6a7a7d;
+    --color-blue: #4285f4;
+    --color-red: #ea4335;
+    --color-yellow: #fbbc04;
+    --color-green: #34a853;
+    --color-highlight: --color-blue;
+    --headline-font-size: 20px;
+    --headline-color: #000;
+    --subhead-font-size: 14px;
+    --subhead-color: #5f6368;
+    --body-font-size: 14px;
+    --body-color: #3c4043;
+}
 
 pre code.hljs {
     display: block;
@@ -248,13 +266,10 @@ footer {
 
 section {
     word-wrap: break-word;
-    --color-background: #fafafa;
-    --color-background-stripe: rgba(69, 90, 100, .1);
-    --color-foreground: #455a64;
-    --color-dimmed: #6a7a7d;
-    --color-highlight: #0288d1;
     background-color: var(--color-background);
-    background-image: linear-gradient(135deg, hsla(0, 0%, 53%, 0), hsla(0, 0%, 53%, .02) 50%, hsla(0, 0%, 100%, 0) 0, hsla(0, 0%, 100%, .05));
+    background-image: url("./images/GoogleDeveloperGroups.svg");
+    background-position: 55px 653px;
+    background-repeat: no-repeat;
     color: var(--color-foreground);
     font-family: Lato, Avenir Next, Avenir, Trebuchet MS, Segoe UI, sans-serif;
     font-size: 35px;
@@ -333,14 +348,21 @@ section:where(.lead) {
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
+    padding-top: 150px;
 }
 
-section:where(.lead) h1, section:where(.lead) h2, section:where(.lead) h3, section:where(.lead) h4, section:where(.lead) h5, section:where(.lead) h6 {
-    text-align: center;
+section:where(.lead)::before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 700px;
+    height: 192px;
+    background: url(./images/devfest-header-left.png) no-repeat top left;
+    background-size: cover;
 }
 
-section:where(.lead) p {
-    text-align: center;
+section:where(.lead) h2, section:where(.lead) p {
 }
 
 section:where(.lead) blockquote > h1, section:where(.lead) blockquote > h2, section:where(.lead) blockquote > h3, section:where(.lead) blockquote > h4, section:where(.lead) blockquote > h5, section:where(.lead) blockquote > h6, section:where(.lead) blockquote > p {
@@ -383,7 +405,7 @@ section .hljs-title.class_ {
 }
 
 section strong {
-    color: hsl(122deg, 29%, 42%);
+    color: var(--color-blue);
     font-weight: normal;
 }
 
@@ -392,16 +414,16 @@ section code strong {
 }
 
 section ul > li > ul strong {
-    color: hsl(219deg, 80%, 62%);
+    color: var(--color-green);
 }
 
 section em {
-    color: hsl(122deg, 29%, 42%);
+    color: var(--color-blue);
     font-style: normal;
 }
 
 section a {
-    color: hsl(219deg, 80%, 62%);
+    color: var(--color-blue);
     text-decoration: none;
 }
 
