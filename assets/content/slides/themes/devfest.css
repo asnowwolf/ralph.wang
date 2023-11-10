@@ -10,6 +10,11 @@
  * @size 4:3 960px 720px
  */
 
+@font-face {
+    font-family: 'Google Sans';
+    src: url('fonts/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.ttf') format('truetype');
+}
+
 section {
     --color-background: #fafafa;
     --color-background-stripe: #e8eaed;
@@ -271,7 +276,7 @@ section {
     background-position: 55px 653px;
     background-repeat: no-repeat;
     color: var(--color-foreground);
-    font-family: Lato, Avenir Next, Avenir, Trebuchet MS, Segoe UI, sans-serif;
+    font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
     font-size: 35px;
     height: 720px;
     letter-spacing: 1.25px;
@@ -349,17 +354,23 @@ section:where(.lead) {
     flex-flow: column nowrap;
     justify-content: center;
     padding-top: 150px;
+
+    background: url(./images/devfest-header.png) no-repeat top left;
+    background-size: contain;
 }
 
-section:where(.lead)::before {
-    content: " ";
+section:where(.lead):first-child::before {
+    content: '北京';
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 700px;
-    height: 192px;
-    background: url(./images/devfest-header-left.png) no-repeat top left;
-    background-size: cover;
+    top: 570px;
+    left: 70px;
+    width: 600px;
+    height: 200px;
+    padding-top: 50px;
+
+    background: url("./images/GoogleDeveloperGroups.svg") no-repeat;
+    color: var(--color-blue);
+    font-size: 26px;
 }
 
 section:where(.lead) h2, section:where(.lead) p {
@@ -376,6 +387,47 @@ section:where(.lead) ol > li > p, section:where(.lead) ul > li > p {
 section:where(.lead) table {
     margin-left: auto;
     margin-right: auto;
+}
+
+section:where(.section) {
+    padding-top: 330px;
+    padding-left: 560px;
+
+    background: #ff00f8 url(./images/devfest-section.png) no-repeat top left;
+    background-size: contain;
+}
+
+section:where(.section):first-child::before {
+    content: '北京';
+    position: absolute;
+    top: 150px;
+    left: 640px;
+    font-size: 26px;
+    color: var(--color-blue);
+}
+
+section:where(.section) h1 {
+    margin: 0 0 12px 0;
+    font-size: 60px;
+}
+
+section:where(.section) h2, section:where(.section) p {
+    margin: 0 0 9px 0;
+}
+
+section:where(.quote) {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+
+    background: url(./images/devfest-quote.png) no-repeat;
+    background-size: contain;
+    color: white;
+
+    padding-left: 250px;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
 }
 
 code.language-bash {
