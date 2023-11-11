@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1699599996281,
+  "timestamp": 1699696218864,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -167,8 +167,8 @@
     "/assets/content/books/AngularJS深度剖析与最佳实践.png": "528693e6c62d10e66e8229f2ea9967bf3fff584f",
     "/assets/content/books/Angular权威教程.png": "8836071c7235241c2dd4041a364dcb4d3ee2bf22",
     "/assets/content/books/Rust程序设计第二版.png": "198392e14c30c1c2712082efea85ce99a3d82e05",
-    "/assets/content/slides/angular-next-and-the-future-of-frontend.html": "248e1652fcc57167fe6f47089d371cce01376669",
-    "/assets/content/slides/angular-next-and-the-future-of-frontend.md": "4df822de77dcf7be8eb6cb023b212378f0dd9113",
+    "/assets/content/slides/angular-next-and-the-future-of-frontend.html": "593731e2b1fbda7b37715fd4b91e7090a6f00d65",
+    "/assets/content/slides/angular-next-and-the-future-of-frontend.md": "760ecef10545565456b925121ce4366e4c8d0108",
     "/assets/content/slides/fonts/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.ttf": "907d75a3f13259d6c779ba219583cc7bbc52b121",
     "/assets/content/slides/fonts/google-sans.css": "0ed67e45c0192a5b7141bda81457ddc5afa874c3",
     "/assets/content/slides/images/GoogleDeveloperGroups.svg": "f6f250f2e0017a6a149cde6478a3dc3e16f50625",
