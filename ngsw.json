@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700096287805,
+  "timestamp": 1701052231721,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -104,6 +104,7 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
+        "/assets/images/logo.svg",
         "/assets/images/me.jpg",
         "/books/index.html",
         "/photo.png",
@@ -191,6 +192,7 @@
     "/assets/icons/icon-512x512.png": "5c9e55ec00e29227c123a3f7279dfdbaefb19445",
     "/assets/icons/icon-72x72.png": "00731be72a93b8c938e088be30d35869a1eddd51",
     "/assets/icons/icon-96x96.png": "546a4c86fbf6d1e70a4b5508ece055613d5c9f38",
+    "/assets/images/logo.svg": "fdf27123e7c5e4ce166aa28fa7afc53ac71e3202",
     "/assets/images/me.jpg": "acb2ea299ab8a828587dfc054fbeb779c3964dff",
     "/books/index.html": "653c1ab7530abd72c5c5327dfaea507ec0cb571e",
     "/common.f846d3882dd2686e.js": "8a610d0adab1c262aa9fc83da45ed8e25fab901d",
