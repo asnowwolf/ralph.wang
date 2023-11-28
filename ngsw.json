@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701172909686,
+  "timestamp": 1701173073869,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -173,7 +173,7 @@
     "/assets/content/books/AngularJS深度剖析与最佳实践.png": "528693e6c62d10e66e8229f2ea9967bf3fff584f",
     "/assets/content/books/Angular权威教程.png": "8836071c7235241c2dd4041a364dcb4d3ee2bf22",
     "/assets/content/books/Rust程序设计第二版.png": "198392e14c30c1c2712082efea85ce99a3d82e05",
-    "/assets/content/slides/angular-next-and-the-future-of-frontend.html": "491631826b5acf4359ec403fb50927868c036016",
+    "/assets/content/slides/angular-next-and-the-future-of-frontend.html": "837eee6cef2f711e5a679b32fb667704c8188f24",
     "/assets/content/slides/angular-next-and-the-future-of-frontend.md": "e84fb97b631c1d9e7a0ffcc595f77a748d5335d6",
     "/assets/content/slides/fonts/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.ttf": "907d75a3f13259d6c779ba219583cc7bbc52b121",
     "/assets/content/slides/fonts/google-sans.css": "0ed67e45c0192a5b7141bda81457ddc5afa874c3",
@@ -187,11 +187,11 @@
     "/assets/content/slides/images/devfest.svg": "f417495d80d01844a46149924385c217e6f19cd5",
     "/assets/content/slides/includes/about.html": "63c02f4f6c294018edd25473cb032a9191b30edb",
     "/assets/content/slides/includes/about.md": "ecd67982d09577a149d53bb2fc933a451fa72965",
-    "/assets/content/slides/includes/contact.html": "4ba23ff856529e57c11fe1c1c7bd57a3496d8cd0",
-    "/assets/content/slides/includes/contact.md": "5750a678dcdb32c6aaba7b2ba2bb746f12a5e181",
+    "/assets/content/slides/includes/contact.html": "12295464ca70e694f126881054fee2ac5d2b5b2f",
+    "/assets/content/slides/includes/contact.md": "017c46cebc827c9f6d49666a3f5adcc1edfbcc54",
     "/assets/content/slides/includes/photo.png": "c9bce7d98c9bf1c38062952500d1b878b95a87ff",
     "/assets/content/slides/includes/wechat.jpeg": "9f018b05fc469a063526dfde582987edb70601e7",
-    "/assets/content/slides/introduction-to-aigc.html": "c6583a34836a5c68636c2f37f423322e8a7a765c",
+    "/assets/content/slides/introduction-to-aigc.html": "9a99d295f210bc2b1afd25160ef70a79fcf99767",
     "/assets/content/slides/introduction-to-aigc.md": "bfe0a870caf424658b6df557f463650e2637d464",
     "/assets/content/slides/themes/devfest.css": "9dddd437062a3afddcc09680d438663c52164739",
     "/assets/content/slides/themes/ralph.css": "0b659ac94a662168d89d458b80a02a2e52715d73",
