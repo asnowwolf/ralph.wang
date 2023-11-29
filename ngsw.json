@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701218527015,
+  "timestamp": 1701218563961,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -191,7 +191,7 @@
     "/assets/content/slides/includes/contact.md": "a5ca0e5a1eb3e117f3ee081f9941bb0a0d2a460c",
     "/assets/content/slides/includes/photo.png": "c9bce7d98c9bf1c38062952500d1b878b95a87ff",
     "/assets/content/slides/includes/wechat.jpeg": "9f018b05fc469a063526dfde582987edb70601e7",
-    "/assets/content/slides/introduction-to-aigc.html": "4e552fc734465a023e6f138e526d7a5b72a5a154",
+    "/assets/content/slides/introduction-to-aigc.html": "d1a010e711d7911cc0c7fc5d868aaa3436ac0514",
     "/assets/content/slides/introduction-to-aigc.md": "bfe0a870caf424658b6df557f463650e2637d464",
     "/assets/content/slides/themes/devfest.css": "9dddd437062a3afddcc09680d438663c52164739",
     "/assets/content/slides/themes/ralph.css": "0b659ac94a662168d89d458b80a02a2e52715d73",
