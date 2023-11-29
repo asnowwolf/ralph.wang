@@ -355,7 +355,7 @@ section:where(.lead) {
     justify-content: center;
     padding-top: 150px;
 
-    background: url(./images/devfest-header.png) no-repeat top left;
+    background: white url(./images/devfest-header.jpg) no-repeat top left;
     background-size: contain;
 }
 
@@ -393,7 +393,7 @@ section:where(.section) {
     padding-top: 330px;
     padding-left: 560px;
 
-    background: #ff00f8 url(./images/devfest-section.png) no-repeat top left;
+    background: white url(./images/devfest-section.png) no-repeat top left;
     background-size: contain;
 }
 
@@ -420,7 +420,7 @@ section:where(.quote) {
     flex-flow: column;
     justify-content: center;
 
-    background: url(./images/devfest-quote.png) no-repeat;
+    background: black url(./images/devfest-quote.png) no-repeat;
     background-size: contain;
     color: white;
 
